@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1954f4da-f7f0-475a-908e-5c128b5e8380" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../..//Users/DRISHTI/Downloads/JS_CSS_PortfolioProject-master/JS_CSS_PortfolioProject-master/sharad-pareek-porfolio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/intro.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/port1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/port2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/port3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/port4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sharad-pareek-porfolio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/_media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/styles.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/styles.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RFayjIKSfCa1fwuJOs6Ecxwen5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Users/DRISHTI/Downloads/JS_CSS_PortfolioProject-master/JS_CSS_PortfolioProject-master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.build&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\DRISHTI\Downloads\JS_CSS_PortfolioProject-master\JS_CSS_PortfolioProject-master" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="porfolio" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="sharad-pareek-porfolio" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1954f4da-f7f0-475a-908e-5c128b5e8380" name="Changes" comment="" />
+      <created>1686848541259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686848541259</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
